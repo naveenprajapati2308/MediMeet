@@ -83,7 +83,7 @@ Follow these steps to run the project locally:
 - Chat feature between patients and doctors
 
 ## 📜 License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **BUIT License**.
 
 ## 🤝 Contributors
 - **Naveen Prajapati** *(Project Lead)*
