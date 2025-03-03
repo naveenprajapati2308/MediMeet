@@ -2,6 +2,10 @@
 
 MediMeet is a **full-stack medical appointment booking system** that provides a seamless experience for **patients, doctors, and administrators**. The platform allows patients to book appointments, doctors to manage schedules, and admins to oversee the system efficiently.
 
+## 🌟 **Live Demo**  
+- **User Panel**: [MediMeet User Side](https://medimeet-frontend.onrender.com/)  
+- **Admin Panel**: [MediMeet Admin Side](https://medimeet-rotr.onrender.com/) 
+
 ## 🌟 Features
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 - **Authentication & Authorization**: Secure login system for patients, doctors, and admins.
